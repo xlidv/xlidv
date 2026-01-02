@@ -1,6 +1,6 @@
 
 
-### 👨‍💻 David Liu | Full Stack Engineer & DevOps & AI/ML Engineer
+### 👨‍💻 Full Stack Engineer & DevOps & AI/ML Engineer
  
 ---
 ### About Me
