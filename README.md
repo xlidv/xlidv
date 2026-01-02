@@ -7,7 +7,7 @@
 
 With over a decade of experience in IT, I am a Full Stack Engineer and DevOps & AI/ML Professional specializing in Node.js, React.js/Next.js, Express.js, Python, Django, Flask, Vue.js/Nuxtjs and Docker, Kubernetes, GCP, AWS  for DevOps, Tensorflow, . My work focuses on designing, deploying, and managing scalable and secure hybrid cloud infrastructures while leveraging cutting-edge AI tools like Ollama, OpenAI, and Claude to enhance efficiency.
 
-Passionate about innovation and continuous learning, I stay ahead in the dynamic tech landscape. Explore my personal website [xlidv.surge.sh](https://xlidv.surge.sh) and blog to learn more.
+Passionate about innovation and continuous learning, I stay ahead in the dynamic tech landscape.
 
 ## 🔧 My Everyday Tools & Workflow
 
