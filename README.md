@@ -1,27 +1,7 @@
 
 
 ### 👨‍💻 David Liu | Full Stack Engineer & DevOps & AI/ML Engineer
-
----
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/xlidv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:davidliu2026@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
-  </a>
-  <a href="https://github.com/xlidv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
-  </a>
-   <a href="https://xlidv.surge.sh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website logo" />
-  </a>
-  <a href="https://xlidv.surge.sh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=discord&logo=Discord&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-</div>
-
+ 
 ---
 ### About Me
 
